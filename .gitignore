@@ -17,6 +17,8 @@ env/
 dist/
 build/
 *.egg-info/
+.next/
+out/
 
 # IDE & OS
 .vscode/
